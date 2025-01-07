@@ -1,8 +1,8 @@
 ### sqzhang-lazy 👋
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=zjwang21&show_icons=true&theme=react) -->
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=sqzhang-lazy&show_icons=true&theme=react) -->
 
-![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zjwang21&theme=react)
+![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqzhang-lazy&theme=react)
 
 - 🔭 I’m currently working on GUI-Agent and in [Harbin Institute of Technology](https://www.hit.edu.cn/)
 - 📍 Now located in Shenzhen
